@@ -1,0 +1,10 @@
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\bin\Debug\test_heslo.exe.config
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\bin\Debug\test_heslo.exe
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\bin\Debug\test_heslo.pdb
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\obj\Debug\test_heslo.csprojAssemblyReference.cache
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\obj\Debug\test_heslo.Form1.resources
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\obj\Debug\test_heslo.Properties.Resources.resources
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\obj\Debug\test_heslo.csproj.GenerateResource.cache
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\obj\Debug\test_heslo.csproj.CoreCompileInputs.cache
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\obj\Debug\test_heslo.exe
+C:\Users\vidlakf.03\source\repos\test_heslo\test_heslo\obj\Debug\test_heslo.pdb
